@@ -1,0 +1,10 @@
+body {
+  background-color: lightyellow;
+}
+
+.container-fluid {
+  background-color: rgb(43, 143, 43);
+  width: 80%;
+  padding: 20px;
+  border-radius: 15px;
+}
